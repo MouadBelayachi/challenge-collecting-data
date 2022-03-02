@@ -3,7 +3,7 @@
 - Developer Name: Mouad Belayachi
 
 
-  Contributors - Maysa Hassan [https://github.com/maysahassan] & Pieter Van hoof [https://github.com/pietervanhoefs]
+  Contributors - Maysa Hassan [https://github.com/maysahassan] & Pieter Van hoefs [https://github.com/pietervanhoefs]
 
 
 - Level: Junior Developer
