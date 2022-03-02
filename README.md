@@ -1,6 +1,6 @@
 # challenge-collecting-data
 
-- Developer Name : Mouad Belayachi
+- Developer Name: Mouad Belayachi
 
 
   Contributors: Maysa Hassan [https://github.com/maysahassan] & Pieter Van hoof [https://github.com/pietervanhoefs]
@@ -11,6 +11,7 @@
 - Repository: challenge-collecting-data
 - Type of Challenge: Group Consolidation 
 - Duration: 3 days
+
 Started: 28/02/2022 H:09:30
 Deadline: 2/03/2022 H:16:30
 
