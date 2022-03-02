@@ -1,6 +1,8 @@
 # challenge-collecting-data
 
 - Developer Name : Mouad Belayachi
+
+
   Contributors: Maysa Hassan [https://github.com/maysahassan] & Pieter Van hoof [https://github.com/pietervanhoefs]
 
 
@@ -19,7 +21,7 @@ The challenge involves real estate data collection, scrapping and classifiying t
 The data is pulled from the following link: https://www.immoweb.be/en/search/house-and-apartment/for-sale?countries=BE
 
 
-- Requireements:
+- Requirements:
 
 Collecting 10,000 Property URLs including the details of each property
 The dataset must involve belgian properties that are displayed into columns and rows
