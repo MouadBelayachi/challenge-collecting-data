@@ -24,16 +24,18 @@ The data is pulled from the following link: https://www.immoweb.be/en/search/hou
 
 - Requirements:
 
-Collecting 10,000 Property URLs including the details of each property
-The dataset must involve belgian properties that are displayed into columns and rows
-The Properties must be classified into those specific features
-The final result has to be in a csv file format
+Collecting 10,000 Property URLs including the details of each property,
+The dataset must involve belgian properties that are displayed into columns and rows.
+The Properties must be classified into those specific features,
+The final result has to be in a csv file format.
 
 
 - Installation:
 
 The running has been seperated into 3 parts to avoid having the run for longer hours.
 To avoid an overload of requests a timesleep range random.randit(1,3) has been applied.
+
+
 
 
 - Usage:
