@@ -23,7 +23,11 @@ for url in links:
     r = requests.get(url)
     soup = BeautifulSoup(r.content, "html.parser")
     x = soup.find('script', attrs={'type': 'text/javascript'}).text.strip()[20:-1]
-    data = json.loads(x)
+    
+    try:
+        data = json.loads(x)
+    except:
+        data = []
     
     try:
         locality = data['property']['location']['locality']
@@ -109,57 +113,9 @@ for url in links:
     relevant_data = [locality, property_type, property_subtype, price, sale_type, bedroom_count, bathroom_count, net_Habital_surface, kitchen, furnished,
                      open_fire, terrace, terrace_surface, garden, garden_surface, land_surface, land_plot_surface, facade_count, pool, building_state]
     
-    with open('result.csv', 'a') as f:
+    with open('result_part_three.csv', 'a') as f:
         writer = csv.writer(f)
         writer.writerow(relevant_data)
     
     
     
-    
-
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-
