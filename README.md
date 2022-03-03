@@ -54,6 +54,6 @@ The dataset is displayed through an excel sheet table.
 ![Capture d’écran (2121)](https://user-images.githubusercontent.com/98814867/156388926-a6c16875-55e3-47b3-8e5d-300078f8fd02.png)
 
 
-
+consider this a warning: Gathering 10000 items in one file may take too lang.  in this project items had been splitted to more than one file.
 
 
