@@ -1,6 +1,6 @@
 # challenge-collecting-data
 
-- Developer Name: Mouad Belayachi
+- Developer Name: Mouad Belayachi [https://github.com/MouadBelayachi/challenge-collecting-data]
 
 
   Contributors - Maysa Hassan [https://github.com/maysahassan] & Pieter Van hoefs [https://github.com/pietervanhoefs]
